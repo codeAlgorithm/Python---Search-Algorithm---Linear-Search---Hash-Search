@@ -1,0 +1,1 @@
+# Python---Search-Algorithm---Linear-Search---Hash-Search
